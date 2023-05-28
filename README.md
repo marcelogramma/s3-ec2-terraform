@@ -1,0 +1,1 @@
+EC2 and S3 deploy with Terraform
